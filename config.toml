@@ -24,7 +24,7 @@ arch = "both"
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 arch = "both"
-build-mode = "module"
+build-mode = "both"
 included-patches = "'Enable slide to seek'"
 
 [Reddit]
