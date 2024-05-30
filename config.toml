@@ -26,26 +26,6 @@ excluded-patches = "'custom-branding-music-afn-blue custom-branding-music-afn-re
 included-patches = "'materialyou force-premium-heading'"                # space-seperated patches to include (non-excluded patches are included by default)
 # include-stock = false                                                 # includes stock apk in the module. default: true
 
-[Music-Extended]
-app-name = "Music"
-patches-source = "inotia00/revanced-patches"
-integrations-source = "'inotia00/revanced-integrations'"
-cli-source = "inotia00/revanced-cli"
-rv-brand = "ReVanced Extended"
-build-mode = "both"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
-arch = "both"														  #arm64-v8a
-
-[YouTube-Extended]
-app-name = "YouTube"
-patches-source = "'inotia00/revanced-patches'"
-integrations-source = "'inotia00/revanced-integrations'"
-cli-source = "inotia00/revanced-cli"
-rv-brand = "ReVanced Extended"
-build-mode = "both"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
-arch = "arm64-v8a"
-
 [Twitter]
 build-mode = "apk"
 excluded-patches = "hide-views-stats"
