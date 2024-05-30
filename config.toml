@@ -2,27 +2,14 @@
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 arch = "both"
 build-mode = "both"
-version = "latest"
-
-[Music]
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
-arch = "both"
-build-mode = "both"
-version = "beta"
+version = "latest"  #beta or latest
 
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 arch = "both"
 build-mode = "both"
 included-patches = "'Enable slide to seek'"
-version = "latest"
-
-[YouTube]
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-arch = "both"
-build-mode = "both"
-included-patches = "'Enable slide to seek'"
-version = "beta"
+version = "beta"  #beta or latest
 
 [Messenger]
 apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger/"
