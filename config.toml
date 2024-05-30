@@ -1,37 +1,12 @@
-[Messenger]
-apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger/"
-arch = "both"
-
-[Twitter]
-apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
-arch = "both"
-included-patches = "'Open links with app chooser'"
-
 [Music]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 arch = "both"
 build-mode = "both"
-
-[Tiktok]
-apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
-arch = "both"
-included-patches = "'SIM spoof'"
-
-[Instagram]
-apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
-arch = "both"
+version = "latest"
 
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 arch = "both"
 build-mode = "both"
 included-patches = "'Enable slide to seek'"
-
-[Reddit]
-apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
-arch = "both"
-
-[Twitch]
-apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
-arch = "both"
-included-patches = "'Debug mode'"
+version = "latest"
