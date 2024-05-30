@@ -9,7 +9,7 @@ apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 arch = "both"
 build-mode = "both"
 included-patches = "'Enable slide to seek'"
-version = "beta"  #beta or latest
+version = "latest"  #beta or latest
 
 [Messenger]
 apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger/"
