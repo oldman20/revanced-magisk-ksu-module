@@ -1,5 +1,5 @@
-Messenger (arm64-v8a): 460.0.0.48.109  
 Music (arm64-v8a): 7.03.51  
+Messenger (arm64-v8a): 460.0.0.48.109  
 Music (arm-v7a): 7.03.51  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
