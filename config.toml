@@ -18,14 +18,6 @@ exclusive-patches = false                                             # excludes
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 module-prop-name = "ytrv-magisk"
 
-				  
-							 
-											
-													  
-							  
-				   
-																	 
-
 [Music]
 build-mode = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
@@ -33,8 +25,6 @@ arch = "both"														  #arm64-v8a
 excluded-patches = "custom-branding-music-afn-blue custom-branding-music-afn-red custom-branding-music-revancify-blue custom-branding-music-revancify-red hide-category-bar hide-playlist-card hide-music-cast-button hide-new-playlist-button"
 included-patches = "materialyou force-premium-heading"                # space-seperated patches to include (non-excluded patches are included by default)
 # include-stock = false                                                 # includes stock apk in the module. default: true
-																		   
-				  
 
 [Music-Extended]
 app-name = "Music"
