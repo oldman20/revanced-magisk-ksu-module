@@ -1,5 +1,5 @@
-Music (arm-v7a): 7.03.51  
 Music (arm64-v8a): 7.03.51  
+Music (arm-v7a): 7.03.51  
 YouTube (arm64-v8a): 19.21.34  
 YouTube (arm-v7a): 19.21.34  
 
