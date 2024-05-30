@@ -5,39 +5,6 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 
 # you can use rvmm-config-gen to generate a config
 
-[Music]
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
-arch = "both"
-build-mode = "both"
-version = "latest"  #beta or latest
-
-[YouTube]
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-arch = "both"
-build-mode = "both"
-included-patches = "'Enable slide to seek'"
-excluded-patches = ""
-version = "latest"  #beta or latest
-
-[Music-Extended]
-app-name = "Music"
-patches-source = "inotia00/revanced-patches"
-integrations-source = "inotia00/revanced-integrations"
-cli-source = "inotia00/revanced-cli"
-rv-brand = "ReVanced Extended"
-build-mode = "both"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
-
-[YouTube-Extended]
-app-name = "YouTube"
-patches-source = "inotia00/revanced-patches"
-integrations-source = "inotia00/revanced-integrations"
-cli-source = "inotia00/revanced-cli"
-rv-brand = "ReVanced Extended"
-build-mode = "both"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
-arch = "both"
-
 [Reddit-Extended]
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
