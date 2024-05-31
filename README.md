@@ -34,6 +34,9 @@ Note that the <a href="../../actions/workflows/ci.yml">CI workflow</a> is schedu
 
 ## To include/exclude patches or patch more ReVanced Apps
 [**See the list of patches**](https://github.com/revanced/revanced-patches#-patches)
+
+[Check patches enable default](https://api.revanced.app/v2/patches/latest)
+
  * Star the repo :eyes:
  * Fork the repo or use the repo as a [template](https://github.com/new?template_name=revanced-magisk-module&template_owner=j-hc)
  * Customize [`config.toml`](./config.toml) using [rvmm-config-gen](https://j-hc.github.io/rvmm-config-gen/)
