@@ -10,7 +10,7 @@ Discord, Telegram, Twitter chính thức của ReVanced: [Link](https://github.c
 
 Danh sách tính năng: [YouTube ReVanced Extended Features](https://telegra.ph/RV--RVX-Features-List-10-31)
 
-Get the [latest CI release](https://github.com/j-hc/revanced-magisk-module/releases).
+Kiểm tra phiên bản phù hợp bằng cách truy cập [revanced-patches](https://github.com/revanced/revanced-patches) và xem **Target Version** hiện tại là gì (Nếu muốn dùng **ReVanced Extended** thì truy cập [revanced-extended](https://github.com/inotia00/revanced-patches/tree/revanced-extended))
 
 Use [**zygisk-detach**](https://github.com/j-hc/zygisk-detach) to detach YouTube and YT Music from Play Store if you are using magisk modules. 
 
