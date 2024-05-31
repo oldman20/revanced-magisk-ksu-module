@@ -1,14 +1,9 @@
-#enable-magisk-update = true   # set this to false if you do not want to receive updates for the module in magisk app
-# add 'enabled = false' for not patching a specific app or remove it from the config
-# see https://github.com/j-hc/revanced-magisk-module/blob/main/CONFIG.md for more detailed explanations
-# you can use rvmm-config-gen to generate a config
-
 [Music]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 arch = "both"
 build-mode = "both"
-version = "latest"  #beta or latest or auto
+version = "latest"
 
 [YouTube]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
@@ -17,7 +12,7 @@ arch = "both"
 build-mode = "both"
 included-patches = "'Enable slide to seek'"
 excluded-patches = ""
-version = "latest"  #beta or latest or auto
+version = "latest"
 
 [Music-Extended]
 app-name = "Music"
