@@ -18,7 +18,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 arch = "both"
 build-mode = "both"
-included-patches = "'Enable slide to seek'"
+included-patches = "'Enable slide to seek'" #Adds an option to enable slide to seek instead of playing at 2x speed when pressing and holding in the video player. Including this patch may cause issues with tapping or double tapping the video player overlay
 excluded-patches = ""
 version = "auto"  #beta or latest or auto
 
