@@ -20,7 +20,7 @@ arch = "both"
 build-mode = "both"
 included-patches = "'Enable slide to seek'"
 excluded-patches = ""
-version = "latest"  #beta or latest or auto
+version = "auto"  #beta or latest or auto
 
 [Music-Extended]
 app-name = "Music"
@@ -32,6 +32,7 @@ build-mode = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 arch = "both"
+version = "latest"  #beta or latest or auto
 
 [YouTube-Extended]
 app-name = "YouTube"
@@ -43,6 +44,7 @@ build-mode = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 arch = "both"
+version = "auto"  #beta or latest or auto
 
 [Reddit-Extended]
 patches-source = "inotia00/revanced-patches"
