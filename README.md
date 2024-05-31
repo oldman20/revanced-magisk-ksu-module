@@ -6,6 +6,8 @@
 
 Extensive ReVanced builder
 
+Discord, Telegram, Twitter chính thức của ReVanced: [Link](https://github.com/revanced/.github/blob/main/profile/README.md)
+
 Danh sách tính năng: [YouTube ReVanced Extended Features](https://telegra.ph/RV--RVX-Features-List-10-31)
 
 Get the [latest CI release](https://github.com/j-hc/revanced-magisk-module/releases).
