@@ -1,3 +1,8 @@
+#enable-magisk-update = true   # set this to false if you do not want to receive updates for the module in magisk app
+# add 'enabled = false' for not patching a specific app or remove it from the config
+# see https://github.com/j-hc/revanced-magisk-module/blob/main/CONFIG.md for more detailed explanations
+# you can use rvmm-config-gen to generate a config
+
 [Music]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
@@ -10,9 +15,9 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 arch = "both"
 build-mode = "both"
-included-patches = "'Enable slide to seek'" #Adds an option to enable slide to seek instead of playing at 2x speed when pressing and holding in the video player. Including this patch may cause issues with tapping or double tapping the video player overlay
+included-patches = "'Enable slide to seek'"
 excluded-patches = ""
-version = "auto"  #beta or latest or auto
+version = "latest"  #beta or latest or auto
 
 [Music-Extended]
 app-name = "Music"
@@ -24,7 +29,6 @@ build-mode = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 arch = "both"
-version = "latest"  #beta or latest or auto
 
 [YouTube-Extended]
 app-name = "YouTube"
@@ -36,7 +40,6 @@ build-mode = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 arch = "both"
-version = "auto"  #beta or latest or auto
 
 [Reddit-Extended]
 patches-source = "inotia00/revanced-patches"
@@ -61,11 +64,11 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.music
 included-patches = "'SIM spoof'"
 
 [Instagram]
-enabled = true
+enabled = false
 apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
 
 [Twitch]
-enabled = true
+enabled = false
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
 apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
 included-patches = "'Debug mode'"
