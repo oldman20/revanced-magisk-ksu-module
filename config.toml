@@ -1,8 +1,9 @@
-#enable-magisk-update = true   # set this to false if you do not want to receive updates for the module in magisk app
 # add 'enabled = false' for not patching a specific app or remove it from the config
 # see https://github.com/j-hc/revanced-magisk-module/blob/main/CONFIG.md for more detailed explanations
-# apkmirror download request to much will block if rate limit, so archive is backup link. And sig.txt is cert of original apks for checksum valid if afraid fake!
+# apkmirror download request to much will block if rate limit, so archive is backup link. And sig.txt is cert of original apks for checksum valid if afraid fake:
+# https://github.com/j-hc/revanced-magisk-module/blob/e7ae0800db0c748bc0723f0ce1e59a22c938873a/utils.sh#L392
 # you can use rvmm-config-gen to generate a config
+#enable-magisk-update = true   # set this to false if you do not want to receive updates for the module in magisk app
 
 [Music]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
