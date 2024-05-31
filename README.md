@@ -39,7 +39,7 @@ Note that the <a href="../../actions/workflows/ci.yml">CI workflow</a> is schedu
 
  * Star the repo :eyes:
  * Fork the repo or use the repo as a [template](https://github.com/new?template_name=revanced-magisk-module&template_owner=j-hc)
- * Customize [`config.toml`](./config.toml) using [rvmm-config-gen](https://j-hc.github.io/rvmm-config-gen/)
+ * Customize [`config.toml`](./config.toml) using [rvmm-config-gen](https://j-hc.github.io/rvmm-config-gen/) Dùng cái generator rồi ấn nút Upload patches.json của [inotia](https://github.com/inotia00/revanced-patches/blob/revanced-extended/patches.json) vào xong điền theo ý thôi. icon thì ghi MMT. 
  * Run the build [workflow](../../actions/workflows/build.yml)
  * Grab your modules and APKs from [releases](../../releases)
 
