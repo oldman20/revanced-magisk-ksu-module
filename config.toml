@@ -69,11 +69,11 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.music
 included-patches = "'SIM spoof'"
 
 [Instagram]
-enabled = false
+enabled = true
 apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
 
 [Twitch]
-enabled = false
+enabled = true
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
 apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
 included-patches = "'Debug mode'"
