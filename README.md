@@ -63,9 +63,9 @@ $ ./build.sh
   <p align="center"><img src ="https://visitcount.itsvg.in/api?id=STEK1337&label=Visitors&color=12&icon=0&pretty=false" />
 </a>
 
-# Xử lý xoay video:
+# Nếu bị buffering thì vào cài đặt Revanced bật Spoof client lên:
 
-Vô cài đặt bật cái spoof client lên,nếu toàn tiếng việt thì vô cài đặt,cài đặt nâng cao,chung,rồi bật giả mạo phiên bản ứng dụng lên.
+>cài đặt,cài đặt nâng cao,chung,rồi bật giả mạo phiên bản ứng dụng lên.
 
 **Bật. spoof client lên thì mất cái tính năng playback speed để coi nhanh 1.5x luôn**
 
