@@ -62,6 +62,13 @@ $ ./build.sh
 <a href="https://visitcount.itsvg.in">
   <p align="center"><img src ="https://visitcount.itsvg.in/api?id=STEK1337&label=Visitors&color=12&icon=0&pretty=false" />
 </a>
+
+# Xử lý xoay video:
+
+Vô cài đặt bật cái spoof client lên,nếu toàn tiếng việt thì vô cài đặt,cài đặt nâng cao,chung,rồi bật giả mạo phiên bản ứng dụng lên.
+
+**Bật. spoof client lên thì mất cái tính năng playback speed để coi nhanh 1.5x luôn**
+
 # [Revancify](https://github.com/decipher3114/Revancify)
 
 # YouTube ReVanced Extended
