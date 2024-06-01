@@ -5,6 +5,7 @@
 # https://github.com/j-hc/revanced-magisk-module/blob/e7ae0800db0c748bc0723f0ce1e59a22c938873a/utils.sh#L392
 # you can use rvmm-config-gen to generate a config
 #enable-magisk-update = true   # set this to false if you do not want to receive updates for the module in magisk app
+#version = "latest"  #latest|auto|beta
 
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
@@ -14,7 +15,7 @@ apkmonk-dlurl = "https://www.apkmonk.com/app/com.google.android.youtube"
 arch = "both"
 build-mode = "both"
 version = "latest"
-included-patches = "'MaterialYou'"
+included-patches = "'MaterialYou' 'Enable slide to seek'"
 
 [YouTube-Extended]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
@@ -29,7 +30,7 @@ rv-brand = "ReVanced Extended"
 arch = "both"
 build-mode = "both"
 version = "latest"
-included-patches = "'MaterialYou'"
+included-patches = "'MaterialYou' 'Enable slide to seek'"
 
 [Music]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
@@ -56,9 +57,9 @@ version = "latest"
 included-patches = "'Replace Cast button'"
 
 [Reddit]
-enabled = false
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
 uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
 apkmonk-dlurl = "https://www.apkmonk.com/app/com.reddit.frontpage/"
 arch = "both"
 version = "latest"
