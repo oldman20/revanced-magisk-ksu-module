@@ -62,6 +62,7 @@ $ ./build.sh
 <a href="https://visitcount.itsvg.in">
   <p align="center"><img src ="https://visitcount.itsvg.in/api?id=STEK1337&label=Visitors&color=12&icon=0&pretty=false" />
 </a>
+# [Revancify](https://github.com/decipher3114/Revancify)
 
 # YouTube ReVanced Extended
 
