@@ -71,6 +71,8 @@ $ ./build.sh
 
 # [Revancify](https://github.com/decipher3114/Revancify)
 
+# [docker-py-revanced-extended](https://github.com/oldman20/docker-py-revanced-extended)
+
 # YouTube ReVanced Extended
 
 Download patched APKs from the [latest releases](https://github.com/STEK1337/youtube-extended/releases/tag/latest)
