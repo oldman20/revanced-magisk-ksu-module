@@ -57,6 +57,7 @@ version = "auto"
 included-patches = "'Replace Cast button'"
 
 [Reddit]
+enabled = false
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
 uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
@@ -66,6 +67,7 @@ version = "auto"
 included-patches = "'Change package name' 'Custom branding name Reddit'"
 
 [Reddit-Extended]
+enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit/"
 uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
@@ -76,12 +78,14 @@ cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 
 [Messenger]
+enabled = false
 apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger/"
 uptodown-dlurl = "https://facebook-messenger.en.uptodown.com/android"
 #apkmonk-dlurl = "https://www.apkmonk.com/app/com.facebook.orca/"
 arch = "both"
 
 [Twitter]
+enabled = false
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
 uptodown-dlurl = "https://twitter.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
@@ -89,6 +93,7 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
 included-patches = "'Open links with app chooser'"
 
 [Tiktok]
+enabled = false
 apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
 uptodown-dlurl = "https://tiktok.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically"
