@@ -1,9 +1,9 @@
-YouTube (arm-v7a): 19.16.39  
 YouTube (arm64-v8a): 19.16.39  
+YouTube (arm-v7a): 19.16.39  
 YouTube-Extended (arm64-v8a): 19.21.40  
 YouTube-Extended (arm-v7a): 19.21.40  
-Music (arm-v7a): 7.03.52  
 Music (arm64-v8a): 7.03.52  
+Music (arm-v7a): 7.03.52  
 Music-Extended (arm64-v8a): 7.05.52  
 Music-Extended (arm-v7a): 7.05.52  
 
