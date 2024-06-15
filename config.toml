@@ -8,6 +8,7 @@
 #version = "latest"  #latest|auto|beta
 
 [YouTube]
+enabled = false
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
@@ -18,6 +19,7 @@ version = "auto"
 included-patches = "'MaterialYou' 'Enable slide to seek'"
 
 [YouTube-Extended]
+enabled = false
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
@@ -33,6 +35,7 @@ version = "auto"
 included-patches = "'MaterialYou' 'Enable slide to seek'"
 
 [Music]
+enabled = false
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
@@ -43,6 +46,7 @@ version = "auto"
 included-patches = "'Replace Cast button'"
 
 [Music-Extended]
+enabled = false
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
