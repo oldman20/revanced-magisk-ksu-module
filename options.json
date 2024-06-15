@@ -4,10 +4,10 @@
     "options": [
       {
         "key": "iconPath",
-        "value": "MMT"
+        "value": "mmt"
       },
       {
-        "key": "appName",
+        "key": "AppName",
         "value": "YouTube"
       }
     ]
