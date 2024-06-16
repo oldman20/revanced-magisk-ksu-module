@@ -15,7 +15,8 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.y
 arch = "arm64-v8a"
 build-mode = "both"
 version = "auto"
-included-patches = "'MaterialYou' 'Custom branding' 'Change header' 'Remove player controls background' 'Enable slide to seek'"
+#included-patches = "'MaterialYou' 'Custom branding' 'Change header' 'Remove player controls background' 'Enable slide to seek'"
+included-patches = "'MaterialYou' 'Visual preferences icons'"
 
 [YouTube-Extended]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
@@ -30,7 +31,8 @@ rv-brand = "ReVanced Extended"
 arch = "arm64-v8a"
 build-mode = "both"
 version = "auto"
-included-patches = "'MaterialYou' 'Custom branding' 'Change header' 'Remove player controls background' 'Enable slide to seek'"
+#included-patches = "'MaterialYou' 'Custom branding' 'Change header' 'Remove player controls background' 'Enable slide to seek'"
+included-patches = "'MaterialYou' 'Visual preferences icons'"
 
 [Music]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
@@ -40,7 +42,8 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.a
 arch = "arm64-v8a"
 build-mode = "both"
 version = "auto"
-included-patches = "'Replace Cast button'"
+#included-patches = "'Replace Cast button'"
+included-patches = "'Hide double tap overlay filter'"
 
 [Music-Extended]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
@@ -54,20 +57,22 @@ rv-brand = "ReVanced Extended"
 arch = "arm64-v8a"
 build-mode = "both"
 version = "auto"
-included-patches = "'Replace Cast button'"
+#included-patches = "'Replace Cast button'"
+included-patches = "'Hide double tap overlay filter'"
 
 [Reddit]
-enabled = false
+#enabled = false
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
 uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
 #apkmonk-dlurl = "https://www.apkmonk.com/app/com.reddit.frontpage/"
 arch = "both"
 version = "auto"
-included-patches = "'Change package name' 'Custom branding name Reddit'"
+#included-patches = "'Change package name' 'Custom branding name Reddit'"
+included-patches = "'Change package name' 'Custom branding name for Reddit'"
 
 [Reddit-Extended]
-enabled = false
+#enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit/"
 uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
@@ -76,16 +81,17 @@ patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
+included-patches = "'Change package name' 'Custom branding name for Reddit'"
 
 [Messenger]
-enabled = false
+#enabled = false
 apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger/"
 uptodown-dlurl = "https://facebook-messenger.en.uptodown.com/android"
 #apkmonk-dlurl = "https://www.apkmonk.com/app/com.facebook.orca/"
 arch = "both"
 
 [Twitter]
-enabled = false
+#enabled = false
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
 uptodown-dlurl = "https://twitter.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
@@ -93,7 +99,7 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
 included-patches = "'Open links with app chooser'"
 
 [Tiktok]
-enabled = false
+#enabled = false
 apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
 uptodown-dlurl = "https://tiktok.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically"
