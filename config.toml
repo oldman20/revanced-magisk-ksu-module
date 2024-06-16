@@ -84,14 +84,14 @@ rv-brand = "ReVanced Extended"
 included-patches = "'Change package name' 'Custom branding name for Reddit'"
 
 [Messenger]
-#enabled = false
+enabled = false
 apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger/"
 uptodown-dlurl = "https://facebook-messenger.en.uptodown.com/android"
 #apkmonk-dlurl = "https://www.apkmonk.com/app/com.facebook.orca/"
 arch = "both"
 
 [Twitter]
-#enabled = false
+enabled = false
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
 uptodown-dlurl = "https://twitter.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
