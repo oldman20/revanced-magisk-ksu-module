@@ -40,11 +40,11 @@ Note that the <a href="../../actions/workflows/ci.yml">CI workflow</a> is schedu
 
  * Star the repo :eyes:
  * Fork the repo or use the repo as a [template](https://github.com/new?template_name=revanced-magisk-module&template_owner=j-hc)
- * Customize [`config.toml`](./config.toml) using [rvmm-config-gen](https://j-hc.github.io/rvmm-config-gen/) Dùng cái generator rồi ấn nút Upload patches.json của [inotia](https://github.com/inotia00/revanced-patches/blob/revanced-extended/patches.json) vào xong điền theo ý thôi. icon thì ghi MMT. 
+ * Customize [`config.toml`](./config.toml) using [rvmm-config-gen](https://j-hc.github.io/rvmm-config-gen/) Dùng cái generator rồi ấn nút Upload patches.json của [inotia](https://github.com/inotia00/revanced-patches/blob/revanced-extended/patches.json) vào xong điền theo ý thôi. icon thì ghi mmt. 
  * Run the build [workflow](../../actions/workflows/build.yml)
  * Grab your modules and APKs from [releases](../../releases)
 
-also see here [`CONFIG.md`](./CONFIG.md)
+also see here [`CONFIG.md`](./CONFIG.md), [inotia00 link](https://github.com/inotia00/revanced-documentation), if need edit json on phone use [JSON Editor Online](https://jsoneditoronline.org)
 
 ## Building Locally
 ### On Termux
