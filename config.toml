@@ -86,7 +86,7 @@ uptodown-dlurl = "https://facebook-messenger.en.uptodown.com/android"
 arch = "both"
 
 [Twitter]
-enabled = false
+#enabled = false
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
 uptodown-dlurl = "https://twitter.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
@@ -108,7 +108,7 @@ uptodown-dlurl = "https://instagram.en.uptodown.com/android"
 #apkmonk-dlurl = "https://www.apkmonk.com/app/com.instagram.android/"
 
 [Twitch]
-enabled = false
+#enabled = false
 apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
 uptodown-dlurl = "https://twitch.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
