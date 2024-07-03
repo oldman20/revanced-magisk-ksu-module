@@ -1,15 +1,15 @@
 [
   {
-    "patchName": "Custom branding icon YouTube",
+    "patchName": "Custom branding icon for YouTube",
     "options": [
       {
         "key": "AppIcon",
-        "value": "MMT"
+        "value": "mmt"
       }
     ]
   },
   {
-    "patchName": "Custom branding name YouTube",
+    "patchName": "Custom branding name for YouTube",
     "options": [
       {
         "key": "AppName",
@@ -18,33 +18,24 @@
     ]
   },
   {
-    "patchName": "Custom branding icon YouTube Music",
+    "patchName": "Custom branding icon for YouTube Music",
     "options": [
       {
         "key": "AppIcon",
-        "value": "MMT"
+        "value": "mmt"
       }
     ]
   },
   {
-    "patchName": "Custom branding name YouTube Music",
+    "patchName": "Custom branding name for YouTube Music",
     "options": [
-      {
-        "key": "AppNameNotification",
-        "value": "YouTube Music MMT"
-      },
       {
         "key": "AppNameLauncher",
         "value": "YT Music"
-      }
-    ]
-  },
-  {
-    "patchName": "Custom branding name Reddit",
-    "options": [
+      },
       {
-        "key": "AppName",
-        "value": "Reddit RVX"
+        "key": "AppNameNotification",
+        "value": "ReVanced Extended YouTube Music"
       }
     ]
   },
@@ -53,7 +44,16 @@
     "options": [
       {
         "key": "PackageNameReddit",
-        "value": "com.reddit.rvx.frontpage"
+        "value": "com.reddit.frontpage.rvx"
+      }
+    ]
+  },
+  {
+    "patchName": "Custom branding name for Reddit",
+    "options": [
+      {
+        "key": "AppName",
+        "value": "RVX Reddit"
       }
     ]
   }
