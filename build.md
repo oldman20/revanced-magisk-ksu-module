@@ -1,12 +1,12 @@
 YouTube: 19.16.39  
-YouTube-Extended: 19.23.40  
+YouTube-Extended: 19.25.39  
+Music-Extended: 7.08.52  
 Music: 7.03.52  
-Music-Extended: 7.06.53  
 Reddit (arm64-v8a): 2024.17.0  
 Reddit (arm-v7a): 2024.17.0  
 Reddit-Extended: 2024.17.0  
 Twitch: 16.9.1  
-Twitter: 10.47.0-release.0  
+Twitter: 10.48.0-release.0  
 Tiktok: 32.5.3  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
@@ -15,9 +15,9 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
 CLI: inotia00/revanced-cli-4.6.1-all.jar  
-Integrations: inotia00/revanced-integrations-1.10.2.apk  
-Patches: inotia00/revanced-patches-4.9.2.jar  
-[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v4.9.2)
+Integrations: inotia00/revanced-integrations-1.11.1.apk  
+Patches: inotia00/revanced-patches-4.10.1.jar  
+[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v4.10.1)
 
 CLI: j-hc/revanced-cli-4.6.0-all.jar  
 Integrations: ReVanced/revanced-integrations-1.11.0.apk  
