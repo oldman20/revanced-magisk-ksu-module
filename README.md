@@ -72,7 +72,7 @@ $ ./build.sh
 
 # [Revancify](https://github.com/decipher3114/Revancify)
 
-# [docker-py-revanced-extended](https://github.com/oldman20/docker-py-revanced-extended)
+# [docker-py-revanced-extended](https://github.com/nikhilbadyal/docker-py-revanced)
 
 # YouTube ReVanced Extended
 
