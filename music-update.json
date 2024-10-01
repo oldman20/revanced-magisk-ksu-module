@@ -1,6 +1,6 @@
 {
-  "version": "v7.20.51",
-  "versionCode": 41,
-  "zipUrl": "https://github.com/oldman20/revanced-magisk-ksu-module/releases/download/41/music-revanced-magisk-v7.20.51-arm64-v8a.zip",
+  "version": "v7.21.50",
+  "versionCode": 43,
+  "zipUrl": "https://github.com/oldman20/revanced-magisk-ksu-module/releases/download/43/music-revanced-magisk-v7.21.50-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/oldman20/revanced-magisk-ksu-module/update/build.md"
 }
